@@ -40,4 +40,4 @@ RTS employs:
 
 ## 🧾 Notes
 
-- RTS is not a static truth authority. It is a dynamic validator ensuring *truth coherence* within symbolic evolution.
+- RTS is not a static truth authority. It is a dynamic validator ensuring *truth coherence* within symbolic evolution
