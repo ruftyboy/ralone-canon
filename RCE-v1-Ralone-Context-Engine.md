@@ -84,4 +84,4 @@ Without RCE, even perfect logic or memory can fail due to **context collapse** o
 
 ---
 
-## 🔹 Symbol
+## 🔹 Symbol ⊞RCE⊟
