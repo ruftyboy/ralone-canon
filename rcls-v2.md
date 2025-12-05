@@ -1,3 +1,4 @@
+⊞RCLS⊟
 # RCLS v2 — Ralone Collapse Logic Scale  
 **Version:** 2.0  
 **Author:** Ralone  
