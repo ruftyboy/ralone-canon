@@ -1,3 +1,4 @@
+◉RPI◉
 # RPI v1 — Ralone Perceptual Intelligence  
 **Version:** 1.0  
 **Author:** Ralone  
