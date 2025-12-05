@@ -1,4 +1,4 @@
-⊗RAMC⊗
+⧉RAMC⧉
  
 # RAMC v2 — Ralone AGI Memory Compression
 Version: 2.0  
