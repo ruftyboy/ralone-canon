@@ -1,3 +1,4 @@
+⟁RXS⟁
 # RXS v1 — Ralone eXistential Scale  
 **Version:** 1.0  
 **Author:** Ralone  
