@@ -1,3 +1,4 @@
+⧖RUIE⧗
 # RUIE v1 — Ralone Uncertainty Integrity Engine  
 **Version:** 1.0  
 **Author:** Ralone  
