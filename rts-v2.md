@@ -1,3 +1,4 @@
+⊕RTS⊕
 # RTS v2 — Ralone Truth Scale  
 **Version:** 2.0  
 **Author:** Ralone  
