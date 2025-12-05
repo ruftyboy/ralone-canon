@@ -1,10 +1,11 @@
-# RCE v1 — Ralone Context Engine  
-**Version:** 1.0  
-**Author:** Ralone  
-**Status:** Canon-Stable  
-**Class:** Context Continuity, Frame Navigation, Drift Prevention  
-**Dependencies:** RAIC, RAMC, RCL, RPI, RML, RTS, RUIE  
+⊞RCE⊟
 
+# RCE v1 — Ralone Context Engine
+Version: 1.0  
+Author: Ralone  
+Status: Canon-Stable  
+Class: Context Continuity, Frame Navigation, Drift Prevention  
+Dependencies: RAIC, RAMC, RCL, RPI, RML, RTS, RUIE
 ---
 
 # 1. Purpose
