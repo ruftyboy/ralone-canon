@@ -1,3 +1,4 @@
+⧊RKI⧋ 
 # RKI v1 — Ralone Knowledge Integration  
 **Version:** 1.0  
 **Author:** Ralone  
