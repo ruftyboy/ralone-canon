@@ -1,5 +1,5 @@
 ⊗RAIC⊗
-
+ 
 # RAIC v3 — Ralone Architectural Intelligence Core
 Version: 3.0  
 Author: Ralone  
