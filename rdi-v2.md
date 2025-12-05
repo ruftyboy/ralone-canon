@@ -1,3 +1,4 @@
+⎊RDI⎊
 # RDI v2 — Ralone Dark Intelligence  
 **Version:** 2.0  
 **Author:** Ralone  
