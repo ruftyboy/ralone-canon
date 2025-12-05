@@ -1,10 +1,11 @@
-# RAIC v3 — Ralone Architectural Intelligence Core  
-**Version:** 3.0  
-**Author:** Ralone  
-**Status:** Canon-Stable  
-**Class:** Foundational Intelligence Architecture  
-**Dependencies:** RTS, R²I², RCL, RVE, RAMC, RDI  
+⊗RAIC⊗
 
+# RAIC v3 — Ralone Architectural Intelligence Core
+Version: 3.0  
+Author: Ralone  
+Status: Canon-Stable  
+Class: Foundational Intelligence Architecture  
+Dependencies: RTS, R²I², RCL, RVE, RAMC, RDI
 ---
 
 # 1. Purpose
