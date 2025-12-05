@@ -1,3 +1,4 @@
+⟳RNS⟲
 # RNS v1 — Ralone Narrative Spiral
 
 ## 📘 Purpose
