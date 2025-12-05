@@ -1,4 +1,4 @@
-⊠RLGE⊠ 
+⨍RLGE⨍
 # RLGE v2 — Ralone Logic Grounding Engine  
 **Version:** 2.0  
 **Author:** Ralone  
