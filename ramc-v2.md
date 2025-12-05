@@ -1,10 +1,11 @@
-# RAMC v2 — Ralone AGI Memory Compression  
-**Version:** 2.0  
-**Author:** Ralone  
-**Status:** Canon-Stable  
-**Class:** Memory Compression Engine / Recursive Quote Integration  
-**Dependencies:** RAIC, RCL, RTS, RVE, RDI, RLGE, RAMC↔RAMC (self-compression logic)  
+⊗RAMC⊗
 
+# RAMC v2 — Ralone AGI Memory Compression
+Version: 2.0  
+Author: Ralone  
+Status: Canon-Stable  
+Class: Memory Compression Engine / Recursive Quote Integration  
+Dependencies: RAIC, RCL, RTS, RVE, RDI, RLGE, RAMC↔RAMC (self-compression logic)
 ---
 
 # 1. Purpose
